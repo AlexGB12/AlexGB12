@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=AlexGB12&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlexGB12/AlexGB12/main/assets/github-contribution-grid-snake.svg" alt="Snake Game"/>
+  <img src="https://raw.githubusercontent.com/AlexGB12/AlexGB12/main/dist/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
 
 <div align="center">
